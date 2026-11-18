@@ -13,7 +13,7 @@
 
     <groupId>com.califorge</groupId>
     <artifactId>calisat-ms-kafka-admin</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <name>calisat-ms-kafka-admin</name>
     <description>Microservicio administrador de Apache Kafka - Calisat</description>
 
